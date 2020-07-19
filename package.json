@@ -1,0 +1,15 @@
+{
+  "name": "write-data",
+  "version": "1.0.0",
+  "description": "consumindo api dostar wars",
+  "main": "dataWrite.js",
+  "scripts": {
+    "start": "node dataWrite.js"
+  },
+  "keywords": [],
+  "author": "mrlucca",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
